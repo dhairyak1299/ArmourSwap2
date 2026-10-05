@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "dwm_autoarmor",
+    "name": "DWM AutoArmor",
+    "description": "Simple Minecraft 1.8.9 AutoArmor mod with configurable keybinds and GUI.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["DWMORE"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
